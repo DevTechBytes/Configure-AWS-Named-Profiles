@@ -1,19 +1,13 @@
-# Setting up local AWS IAM Profile - Cheat Sheet
+# Setting up AWS Named Profile
 
-This repo is a companion to the YouTube video located <a href="">here</a>
+This repo is contains the commands ran in the following video on YouTube video located <a href="">here</a>
 
-## Activating Python virtual environment
-You can activate your Python virtual environment by calling the following command in yout terminal. We are using Anaconda which can be found [here](https://www.anaconda.com/download)
+## Installing AWS CLI
 
-If you don't already have a virtual Python environment already setup you can refer to this video [How to Set Up a Dedicated OpenAI Python Environment with Anaconda](https://youtu.be/lZ2OnOkd1Rk) if you are unsure how to setup your environment.
+Run the following command for installing the AWS CLI.
 
 `
-conda activate <you-environment-name>
-`
-
-## Installing Python packages
-`
-pip3 install awscli boto3
+pip install awscli
 `
 
 ## Configuring your AWS Profiles
