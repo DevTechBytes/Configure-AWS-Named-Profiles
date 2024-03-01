@@ -15,11 +15,11 @@ pip install awscli
 You will run the following command to configure you individual profiles. See video referenced above if you are unsure how to set the values for the commands ran below.
 
 `
-aws configure --profile demo-user-1-profile
+aws configure --profile s3-user-profile
 `
 
 `
-aws configure --profile demo-user-2-profile
+aws configure --profile bedrock-user-profile
 `
 
 ## Test Named Profiles with AWS CLI
