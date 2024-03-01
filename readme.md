@@ -1,6 +1,6 @@
 # Setting up AWS Named Profiles
 
-This repo is contains the commands ran in the following YouTube video <a href="https://youtu.be/6qXKlcApG8Q">🔐 Master AWS Named Profiles: Named Profiles Setup Tutorial! 🔑</a>
+This repo contains the commands ran in the following YouTube video <a href="https://youtu.be/6qXKlcApG8Q">🔐 Master AWS Named Profiles: Named Profiles Setup Tutorial! 🔑</a>
 
 ## Installing AWS CLI
 
